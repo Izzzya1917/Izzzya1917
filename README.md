@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Izzzya1917
 - 👀 I’m interested in fooling around
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning c# + kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
